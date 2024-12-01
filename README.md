@@ -1,6 +1,6 @@
 <p align="center">
   <img width="500" alt="logo" src="https://autokeras.com/img/row_red.svg"/>
-</p>
+</p> 
 
 [![](https://github.com/keras-team/autokeras/workflows/Tests/badge.svg?branch=master)](https://github.com/keras-team/autokeras/actions?query=workflow%3ATests+branch%3Amaster)
 [![codecov](https://codecov.io/gh/keras-team/autokeras/branch/master/graph/badge.svg)](https://codecov.io/gh/keras-team/autokeras)
